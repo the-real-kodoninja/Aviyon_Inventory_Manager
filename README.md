@@ -1,4 +1,4 @@
-InventoryManager
+Λviyon Inventory Manager (AIM)
 ================
 
 InventoryManager is a robust, modular, and highly customizable inventory management software designed to streamline warehouse and storage operations for businesses of all sizes---from small-scale resale operations in storage units to large-scale, multi-location enterprises. Built with flexibility, security, and scalability in mind, InventoryManager addresses the chaos of traditional inventory tracking by combining intuitive interfaces, real-time data visualization, and advanced AI-driven analytics. It supports both desktop and mobile applications, ensuring secure access to inventory data without relying on web-based portals to mitigate security risks.
